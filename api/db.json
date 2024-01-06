@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "name": "Nokia 0.222222222",
+      "type": "deleted",
+      "id": 1
+    },
+    {
+      "name": "Nokia 0.22",
+      "type": "pending",
+      "id": 2
+    },
+    {
+      "name": "Alexa",
+      "type": "Deleted",
+      "id": 3
+    },
+    {
+      "name": "Alexa",
+      "type": "success",
+      "id": 4
+    }
+  ]
+}
